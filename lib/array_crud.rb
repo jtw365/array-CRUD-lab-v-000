@@ -11,7 +11,7 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  Array.new(5, "pop")
+  ele = [1,2,3,4,5,6]
   arr.pop
 end
 
